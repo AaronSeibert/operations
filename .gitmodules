@@ -1,0 +1,6 @@
+[submodule "wiki"]
+	path = wiki
+	url = git@github.com:AaronSeibert/wiki.git
+[submodule "infrastructure"]
+	path = infrastructure
+	url = git@github.com:AaronSeibert/infrastructure.git
